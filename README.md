@@ -11,4 +11,4 @@
 <a href="https://www.sylvio-pelagemaxime.fr/" target="_blank">My Portfolio</a>
 
 ## Techs skills
-![cpp ico](Img/CPP.svg) ![csharp ico](Img/csharp.svg) ![unity ico](Img/unity.svg)   ![MySQL ico](Img/MySQL.svg)   ![python ico](Img/python.svg)   ![typeScript ico](Img/typeScript.svg) ![html ico](Img/html.svg) ![sass ico](Img/sass.svg) 
+![cpp ico](Img/CPP.svg) ![ue5_ico](Img/UE5_ico.svg) ![csharp ico](Img/csharp.svg) ![unity ico](Img/unity.svg) ![MySQL ico](Img/MySQL.svg) ![python ico](Img/python.svg) ![typeScript ico](Img/typeScript.svg)
